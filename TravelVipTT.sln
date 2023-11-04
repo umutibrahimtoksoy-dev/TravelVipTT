@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TravelVipTT", "TravelVipTT\", "{7012AD6C-1B66-4ED8-8E64-956A90DD9BBD}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53464"
+		Debug.AspNetCompiler.PhysicalPath = "TravelVipTT\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53464\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53464"
+		Release.AspNetCompiler.PhysicalPath = "TravelVipTT\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53464\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53464"
+		SlnRelativePath = "TravelVipTT\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7012AD6C-1B66-4ED8-8E64-956A90DD9BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7012AD6C-1B66-4ED8-8E64-956A90DD9BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D5BA15D-34E3-492D-A3C4-F26DD343C3E2}
+	EndGlobalSection
+EndGlobal
